@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="myAllication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myAllication_jar</output-path>
+    <root id="archive" name="myAllication.jar">
+      <element id="module-output" name="myAllication" />
+    </root>
+  </artifact>
+</component>
